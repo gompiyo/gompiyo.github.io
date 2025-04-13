@@ -1,9 +1,9 @@
 # gompiyo.github.io
-このサイトはあざらしシューティングゲームの公式サイトです。/ This is a website for the Seal Shooter.
+このサイトはあざらしシューティングゲームならびにSchedule maker for sportsの公式サイトです。/ This is a official website for the Seal Shooter and Schedule maker for sports.
 
 **Privacy Policy**
 
-This privacy policy applies to the あざらしシューティングゲーム/ Seal Shooter app (hereby referred to as "Application") for mobile devices that was created by Ryota Yamazaki (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the あざらしシューティングゲーム/ Seal Shooter app and Schedule maker for sports (hereby referred to as "Application") for mobile devices that was created by Ryota Yamazaki (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
